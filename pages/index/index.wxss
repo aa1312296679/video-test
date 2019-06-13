@@ -26,3 +26,10 @@
   font-size: 24rpx;
   z-index: 99;
 }
+
+.testImg{
+  border: 1px solid red;
+  width: 100%;
+  height: 500rpx;
+  box-sizing: border-box;
+}
