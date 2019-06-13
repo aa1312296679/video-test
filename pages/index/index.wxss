@@ -1,0 +1,28 @@
+/**index.wxss**/
+
+.videoWrapper {
+  width: 100%;
+  height: 500rpx;
+  position: relative;
+}
+
+.myVideo {
+  width: 100%;
+  height: 100%;
+  /* border: 1px solid red; */
+  box-sizing: border-box;
+}
+
+.videoPlay {
+  width: 50rpx;
+  height: 50rpx;
+  /* border: 1px solid red; */
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-top: -25rpx;
+  margin-left: -25rpx;
+  background: green;
+  font-size: 24rpx;
+  z-index: 99;
+}
